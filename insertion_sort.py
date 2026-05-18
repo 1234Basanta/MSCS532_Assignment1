@@ -15,7 +15,7 @@ def insertion_sort_desc(arr):
 
 
 # Example array
-numbers = [12, 5, 8, 19, 1, 25]
+numbers = [40, 3, 15, 27, 9]
 
 print("Original Array:", numbers)
 
